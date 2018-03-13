@@ -1,0 +1,60 @@
+Welcome to the image comparison program!
+==========================================
+1) Create Database from images in ./pictureDatabase/ folder
+2) Load Database from file
+ [DrJava Input Box]
+System will now database all pictures in the "pictureDatabase" Directory.
+Would you like a print out of the current files in the directory? (Y/N)
+ [DrJava Input Box]
+To create the database from the images it took:
+Histogram=1751.706113457 seconds
+CCV=1870.004888585 seconds
+Correlogram=2045.694486335 seconds
+Please hit enter when you want to continue
+ [DrJava Input Box]
+Now saving all Histogram database results into a flatfile titled: Histogram.txt
+Now saving all CCV database results into a flatfile titled: CCV.txt
+Now saving all Correl database results into a flatfile titled: Correlogram.txt
+To save the database flatfile it took:
+Histogram=0.045578007 seconds
+CCV=0.056535837 seconds
+Correlogram=0.216196281 seconds
+Please hit enter when you want to continue
+ [DrJava Input Box]
+Now beginning image comparison phase:
+==========================================
+Enter image name:
+ [DrJava Input Box]
+The time to convert the comparison image to each format:
+Histogram=1.414880422 seconds
+CCV=1.574399947 seconds
+Correlogram=1.661020179 seconds
+Please hit enter when you want to continue
+ [DrJava Input Box]
+Now beginning Histogram Comparison
+The three closest files to ".\pictureDatabase\img (1).jpg" are:
+1) ".\pictureDatabase\img (1).jpg"
+2) ".\pictureDatabase\img (1).jpg"
+3) ".\pictureDatabase\img (1).jpg"
+Now opening all 4 files...
+Please hit enter when you want to continue
+ [DrJava Input Box]
+Now beginning CCV Comparison
+The three closest files to ".\pictureDatabase\img (1).jpg" are:
+1) ".\pictureDatabase\img (1).jpg"
+2) ".\pictureDatabase\img (1).jpg"
+3) ".\pictureDatabase\img (1).jpg"
+Now opening all 4 files...
+Please hit enter when you want to continue
+ [DrJava Input Box]
+Now beginning Correlogram Comparison
+The three closest files to ".\pictureDatabase\img (1).jpg" are:
+1) ".\pictureDatabase\img (1).jpg"
+2) ".\pictureDatabase\img (1).jpg"
+3) ".\pictureDatabase\img (1).jpg"
+Now opening all 4 files...
+The time to search each DB for similar images:
+Histogram=0.007736311 seconds
+CCV=0.012859093 seconds
+Correlogram=0.021618496 seconds
+Would you like to continue? (Y/N)
